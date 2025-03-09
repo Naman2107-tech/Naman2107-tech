@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there! I'm Naman Jha 👋
 
-<!--
-**Naman2107-tech/Naman2107-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+⚙️ Aspiring Developer passionate about building impactful projects and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in Java, JavaScript, and SQL.
+
+✨ Always learning new technologies and improving my skills.
+
+📈 Currently exploring Machine Learning, Data Science, and Web Development.
+
+🛠️ Tech Stack
+
+Languages: Java, JavaScript, C, C++
+
+Web Development: HTML, CSS, React.js, Node.js
+
+Data Science: Pandas, NumPy, scikit-learn, Matplotlib
+
+Database: MySQL, MongoDB
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook
